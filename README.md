@@ -5,11 +5,11 @@ This is a Oracle SQL file implementing the therapist directory database in Hong 
 This database contains 5 tables: <br/><br/>
 <b>therapist_directory<b/> <br/>
 The table to store therapist’s information <br/>
-<b>specialties<b/> <br/>
+<b>specialties</b> <br/>
 The table to store all therapist’s specialties information (e.g. first specialty, second specialty, third specialty) <br/>
-<b>therapist_location<b/> <br/>
+<b>therapist_location</b> <br/>
 The table to intermediate tables therapist and location <br/>
-<b>locations<b/> <br/>
+<b>locations</b> <br/>
 The table to store location for each therapist <br/>
-<b>location_state<b/> <br/>
+<b>location_state</b> <br/>
 The table to store all location status (e.g. on or off) <br/>
