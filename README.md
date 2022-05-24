@@ -3,7 +3,7 @@ This is a Oracle SQL file implementing the therapist directory database in Hong 
 
 # Kind of data to be stored 
 This database contains 5 tables: <br/><br/>
-<b>therapist_directory<b/> <br/>
+<b>therapist_directory</b> <br/>
 The table to store therapist’s information <br/>
 <b>specialties</b> <br/>
 The table to store all therapist’s specialties information (e.g. first specialty, second specialty, third specialty) <br/>
