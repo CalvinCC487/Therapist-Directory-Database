@@ -1,8 +1,8 @@
 # Therapist-Directory-Database
 This is a Oracle SQL file implementing the therapist directory database in Hong Kong. The database is aiming to be used in the in searching therapists in Hong Kong. The database is connected to a website which allow people to search therapists with their contact number, the hospital they work for, and their specialties. In order to help users to find the appropriate therapist.
 
-# Kind of data to be stored
-This database contains 5 tables: <br/>
+# Kind of data to be stored 
+This database contains 5 tables: <br/><br/>
 therapist_directory <br/>
 The table to store therapist’s information <br/>
 specialties <br/>
